@@ -18,3 +18,7 @@ Don't forget to change user name/password (default - admin/admin) and CSRF-token
 
 # requirements
 PHP 5+ and basic read/write access to edited files from it.
+
+# interface
+Simple flat GUI.
+<img src="https://github.com/strategiccode/web-mutator/blob/master/screenshot.png?raw=true" alt="screenshot">

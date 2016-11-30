@@ -1,0 +1,6 @@
+{
+  "name": "Web-mutator",
+  "tagline": "Web-mutator is a simple WEB IDE based on Ace editor.",
+  "body": "# web-mutator\r\nWeb-mutator is a simple WEB IDE based on Ace editor.\r\n\r\n# installation\r\nWeb-mutator works out of the box.\r\nDon't forget to change user name/password (default - admin/admin) and CSRF-token secret key in _config.php_.\r\n<pre>\r\n\t// !!! change secret key\r\n\t'secret' => 'u65hb5nsd3io0e90ie9p0rzhj4yhqujh',\r\n\t'users' => [\r\n\t\t'admin' => [\r\n\t\t\t'name' => 'Administrator',\r\n\t\t\t// !!! change your password\r\n\t\t\t'password' => 'admin'\r\n\t\t]\r\n\t]\r\n</pre>\r\n\r\n# requirements\r\nPHP 5+ and basic read/write access to edited files from it.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
